@@ -1,3 +1,8 @@
+<h1 style="text-transform:uppercase">Logic Fighters Employee and Project Management System</h1>
+
+<h3>Preview:</h3>
+<img src="http://amitkolloldey.com/wp-content/uploads/2018/04/1.jpg"/>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
