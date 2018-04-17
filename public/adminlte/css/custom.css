@@ -1,0 +1,109 @@
+
+.label {margin-right:5px;margin-bottom:5px !important;display:inline-block;} #wrapper {
+    position: relative;
+}
+ .select2 select2-container.select2-container--default.select2-container--focus {
+    display: none!important;
+}
+
+.select2-hidden-accessible {
+    display: none;
+}
+
+span.select2-selection.select2-selection--single {
+    cursor:  pointer;
+    background: #ddd;
+}
+
+.select2-selection b {
+    background:  #ddd!important;
+    list-style: navajowhite;
+}
+
+ul.select2-results__options {
+    background: #fff;
+    list-style:  none;
+    padding: 0;
+}
+.login-box {
+    background: #ddd;
+}
+
+.login-box-body {
+    background: #eee;
+}
+
+button.btn.btn-primary {
+    border-radius:  0;
+    float:  right;
+    padding: 10px 30px;
+}
+
+body.page-header-fixed {
+    background: #3C8DBC;
+}
+.panel-heading {
+    border-radius:  0;
+    padding:  20px;
+    font-size:  20px;
+    background: #00C0EF!important;
+    color:  #fff!important;
+    margin-bottom: 20px;
+}
+
+.panel.panel-default {
+    background: #ECF0F5;
+    border: none;
+}
+a.btn.btn-success {
+    background: #F39C12;
+    border:  none;
+    border-radius:  0;
+}
+.btn {
+    border:  navajowhite;
+    border-radius: 0;
+}
+
+input[type="search"] {
+    border: 1px solid #00C0EF;
+}
+
+a.dt-button,a.dt-button:hover {
+    background: #367FA9!important;
+    color: #fff!important;
+    border: none!important;
+    border-radius: 0!important;
+    box-shadow: none!important;
+}
+a.dt-button {
+    margin: -5px 10px;
+}
+a.paginate_button {
+    background: #3C8DBC!important;
+    color: #fff!important;
+    border:  none!important;
+    border-radius:  0!important;
+    box-shadow:  none;
+    margin: 5px;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{
+    color: #fff!important;
+}
+nav.navbar.navbar-static-top {
+    background: #2C3B41!important;
+}
+.skin-blue .main-header .logo {
+    background: #2C3B41!important;
+}
+.user-header p {
+    color:  #fff;
+    font-size:  16px;
+    margin-top: 10px;
+}
+.user-header a:hover {
+    background: none!important;
+}
+.user-header{
+    background: #1E282C!important;
+}
